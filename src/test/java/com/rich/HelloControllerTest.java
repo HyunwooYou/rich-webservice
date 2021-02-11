@@ -1,4 +1,4 @@
-package com.rich.web;
+package com.rich;
 
 import static org.hamcrest.Matchers.is;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;

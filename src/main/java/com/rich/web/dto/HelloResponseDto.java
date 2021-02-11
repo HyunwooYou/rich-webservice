@@ -1,4 +1,4 @@
-package com.rich.dto;
+package com.rich.web.dto;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
