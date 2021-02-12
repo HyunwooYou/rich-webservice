@@ -1,5 +1,7 @@
-package com.rich.domain.posts;
+package com.rich.domain;
 
+import com.rich.domain.posts.Posts;
+import com.rich.domain.posts.PostsRepository;
 import org.junit.After;
 import org.junit.Test;
 import org.junit.runner.RunWith;

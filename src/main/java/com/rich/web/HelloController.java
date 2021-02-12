@@ -1,4 +1,4 @@
-package com.rich;
+package com.rich.web;
 
 import com.rich.web.dto.HelloResponseDto;
 import org.springframework.web.bind.annotation.GetMapping;
